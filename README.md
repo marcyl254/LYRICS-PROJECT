@@ -108,9 +108,10 @@ Contact form
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://github.com/marcyl254/LYRICS-PROJECT/actions/runs/7125073974/job/19400507420)
+- 
+![ScreenShot Tool -20231207104139](https://github.com/marcyl254/LYRICS-PROJECT/assets/150244592/76b30684-c9ce-4380-a14a-4c691062d98f)
+![ScreenShot Tool -20231207104222](https://github.com/marcyl254/LYRICS-PROJECT/assets/150244592/88ae2556-ef97-4cb5-a439-744ffb289e3f)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +119,6 @@ Contact form
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -126,26 +126,14 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+Install live server 5 extension
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
